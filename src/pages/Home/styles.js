@@ -40,8 +40,8 @@ export const Title = styled.Text`
 export const BannerButtom = styled.TouchableOpacity``;
 
 export const Banner = styled.Image`
-  height: 150px;
-  border-radius: 6px;
+  height: 350px;
+  border-radius: 8px;
   margin: 0 14px;
 `;
  export const SliderMovie = styled.FlatList`
